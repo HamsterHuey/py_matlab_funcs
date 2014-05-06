@@ -2,7 +2,7 @@
 """
 Created on Mon May 05 23:10:12 2014
 
-@author: Sudeep Mandal, sudeepmandal@gmail.com
+@author: Sudeep Mandal
 """
 import numpy as np
 from scipy.optimize import curve_fit
