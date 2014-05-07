@@ -11,7 +11,8 @@ import matplotlib.pyplot as plt
 def histfit(data, ax=None, **kwargs):
     """
     Emulates MATLAB histfit() function. Plots histogram & Gaussian fit to data
-    
+    Currently only implements Gaussian fit
+	
     Parameters:
     -----------
         data :  1D array data to be plotted as histogram
